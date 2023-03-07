@@ -25,7 +25,7 @@ hermit_menu = [
 
 hermit_social = [
     { name = "instagram", link = "https://instagram.com/party.mooose" },
-    { name = "github", link = "https://github.com/partymooose" },
+#    { name = "github", link = "https://github.com/partymooose" },
     { name = "email", link = "mailto:party.mooose@gmail.com" }
 ]
 
